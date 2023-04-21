@@ -30,6 +30,7 @@ knitr::opts_chunk$set(echo = FALSE)
  + Puedes utilizar cualquier parte de los cuadernillos para operaciones en sucio, *excepto en la prueba Psicotécnica* donde te facilitaremos papel.
  + Necesitarás lápiz, sacapuntas y goma de borrar.
  + No se penalizan las respuestas incorrectas en ninguna prueba.
+ + Marca tus respuestas en la hoja tras cada ejercicio. **!!No esperes al final, puede que no te de tiempo a marcarlas!!**
  + Al marcar en la hoja de respuestas no aprietes demasiado (para que puedas borrar si es necesario) ni demasiado poco (que no haya errores de lectura). Usa la goma si es necesario, no uses ningún tipo de corrector.
  + Los resultados de las pruebas serán comunicados en 15 días.
 
