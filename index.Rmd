@@ -92,7 +92,7 @@ knitr::opts_chunk$set(echo = FALSE)
  + <span style = "color:red"> Asegúrate de elegir la hoja de respuestas correspondiente a esta prueba.</span>
  <!-- + <span style = "color:red"> Responde a 15 de las 18 preguntas. (se corrigen las 15 primeras respuestas). Respeta el número de pregunta en la hoja de respuestas. </span> -->
  + <span style = "color:red"> No se penalizan las respuestas incorrectas (no marques menos de 15 respuestas).</span>
- + Los móviles deben estar apagados y guardados.
+ + <span style = "color:red"><b>Recuerda apagar y guardar el móvil.</b></span>
  + No se puede utilizar calculadora en ninguna prueba.
 
 ---
