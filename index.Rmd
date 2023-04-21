@@ -1,0 +1,120 @@
+---
+title: "Pruebas Admisión ICAI"
+output:
+  slidy_presentation: 
+    includes:
+      in_header: startTime.html
+    self-contained: yes
+  ioslides_presentation:
+    includes:
+      in_header: startTime.html
+    self-contained: yes
+date: '2023'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+---
+
+### Instrucciones Generales
+
+<h3><div id="txt1"></div></h3>
+
+ + Pon tu DNI o pasaporte encima de la mesa.
+ + Los móviles deben estar apagados y guardados. 
+ + No se puede utilizar calculadora en ninguna prueba.
+ + Los resultados de las pruebas serán comunicados en 15 días.
+ + Puedes utilizar cualquier parte de los cuadernillos para operaciones en sucio, *excepto en la prueba Psicotécnica*.
+ + Necesitarás lápiz, sacapuntas y goma de borrar.
+ + Asegúrate de elegir la hoja de respuestas correspondiente a cada prueba.
+ + Al marcar en la hoja de respuestas no aprietes demasiado (para que puedas borrar si es necesario) ni demasiado poco (que no haya errores de lectura).
+
+
+---
+
+### Instrucciones Prueba Matemáticas
+
+<h3><div id="txt2"></div></h3>
+
+
+ + <span style = "color:red"> Asegúrate de elegir la hoja de respuestas correspondiente a esta prueba.</span>
+ + <span style = "color:red"> Duración: 45 minutos, de 9:00 a 9:45. </span>
+ + <span style = "color:red"> Responder a 12 de las 15 preguntas (se corrigen las 12 primeras respuestas). Respeta el número de pregunta en la hoja de respuestas. </span>
+ + <span style = "color:red"> No se penalizan las respuestas incorrectas (no marques menos de 12 respuestas).</span>
+ + <span style = "color:red"> DNI o pasaporte encima de la mesa.</span>
+ + Los móviles deben estar apagados y guardados.
+ + No se puede utilizar calculadora en ninguna prueba.
+
+<!-- ##################################################################################################################### --> 
+<!-- ##################################################################################################################### --> 
+<!-- ##################################################################################################################### --> 
+
+---
+
+### Instrucciones Prueba Física
+
+<h3><div id="txt3"></div></h3>
+
+ + <span style = "color:red"> Asegúrate de elegir la hoja de respuestas correspondiente a esta prueba.</span>
+ + <span style = "color:red"> Duración: 45 minutos, de 9:50 a 10:35. </span>
+ + <span style = "color:red"> Responde a 15 de las 18 preguntas. (se corrigen las 15 primeras respuestas). Respeta el número de pregunta en la hoja de respuestas. </span>
+ + <span style = "color:red"> No se penalizan las respuestas incorrectas (no marques menos de 15 respuestas).</span>
+ + Los móviles deben estar apagados y guardados.
+ + No se puede utilizar calculadora en ninguna prueba.
+
+<!-- ##################################################################################################################### --> 
+<!-- ##################################################################################################################### --> 
+<!-- ##################################################################################################################### --> 
+
+
+---
+
+### Descanso: 10:35 – 11:05
+
+<h3><div id="txt4"></div></h3>
+
+ + <span style = "color:red"><b>IMPORTANTE: No te lleves cuadernillos ni hojas de respuesta, déjalos en la mesa.</b></span>
+ + <span style = "color:red"> ¡¡Asegúrate de estar de vuelta en tu mesa a las 11:05!!</span>
+ + <span style = "color:red"> Evita las aglomeraciones en los pasillos</span>
+ + <span style = "color:red"> Procura no abandonar el edificio. </span>
+
+---
+
+### Instrucciones Prueba Psicotécnica
+
+<h3><div id="txt5"></div></h3>
+
+ + <span style = "color:red"><b>IMPORTANTE: No escribir en los cuadernillos. Usa los folios en blanco que se repartirán.</b></span>
+ + <span style = "color:red"><b>En esta prueba hay cinco respuestas por pregunta, sólo una es válida.</b></span>
+ + <span style = "color:red"> Duración: 15 minutos (11:15-11:30). </span>
+ + <span style = "color:red"> Asegúrate de elegir la hoja de respuestas correspondiente a esta prueba.</span>
+ <!-- + <span style = "color:red"> Responde a 15 de las 18 preguntas. (se corrigen las 15 primeras respuestas). Respeta el número de pregunta en la hoja de respuestas. </span> -->
+ + <span style = "color:red"> No se penalizan las respuestas incorrectas (no marques menos de 15 respuestas).</span>
+ + Los móviles deben estar apagados y guardados.
+ + No se puede utilizar calculadora en ninguna prueba.
+
+---
+
+### Instrucciones Prueba Inglés
+
+<h3><div id="txt6"></div></h3>
+
+ + <span style = "color:red"> Duración: 25 minutos (11:35-12:00). </span>
+ + <span style = "color:red"> Asegúrate de elegir la hoja de respuestas correspondiente a esta prueba.</span>
+ + <span style = "color:red"> No se penalizan las respuestas incorrectas (no marques menos de 15 respuestas).</span>
+ + Los móviles deben estar apagados y guardados.
+ 
+
+
+---
+
+### Final de las Pruebas 12:00
+
+<h3><div id="txt7"></div></h3>
+
+ + Recuerda que debes salir del edificio por la misma puerta que usaste para entrar.
+ + ¡Evita las aglomeraciones en la entrada!
+ + Los resultados de las pruebas serán comunicados en 15 días. No llames antes, porque no podrán darte información.
+
