@@ -104,7 +104,7 @@ knitr::opts_chunk$set(echo = FALSE)
  + <span style = "color:red"> Duración: 25 minutos (11:35-12:00). </span>
  + <span style = "color:red"> Asegúrate de elegir la hoja de respuestas correspondiente a esta prueba.</span>
  + <span style = "color:red"> No se penalizan las respuestas incorrectas (no marques menos de 15 respuestas).</span>
- + Los móviles deben estar apagados y guardados.
+ 
  
 
 
