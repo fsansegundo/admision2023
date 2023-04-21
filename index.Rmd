@@ -41,12 +41,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <h3><div id="txt2"></div></h3>
 
-
+ + <span style = "color:red"> DNI o pasaporte encima de la mesa.</span>
  + <span style = "color:red"> Asegúrate de elegir la hoja de respuestas correspondiente a esta prueba.</span>
  + <span style = "color:red"> Duración: 45 minutos, de 9:00 a 9:45. </span>
  + <span style = "color:red"> Responder a 12 de las 15 preguntas (se corrigen las 12 primeras respuestas). Respeta el número de pregunta en la hoja de respuestas. </span>
  + <span style = "color:red"> No se penalizan las respuestas incorrectas (no marques menos de 12 respuestas).</span>
- + <span style = "color:red"> DNI o pasaporte encima de la mesa.</span>
+ + <span style = "color:red"> Marca tus respuestas en la hoja tras cada ejercicio, no esperes al final.</span>
  + Los móviles deben estar apagados y guardados.
  + No se puede utilizar calculadora en ninguna prueba.
 
@@ -64,6 +64,7 @@ knitr::opts_chunk$set(echo = FALSE)
  + <span style = "color:red"> Duración: 45 minutos, de 9:50 a 10:35. </span>
  + <span style = "color:red"> Responde a 15 de las 18 preguntas. (se corrigen las 15 primeras respuestas). Respeta el número de pregunta en la hoja de respuestas. </span>
  + <span style = "color:red"> No se penalizan las respuestas incorrectas (no marques menos de 15 respuestas).</span>
+ + <span style = "color:red"> Marca tus respuestas en la hoja tras cada ejercicio, no esperes al final.</span>
  + Los móviles deben estar apagados y guardados.
  + No se puede utilizar calculadora en ninguna prueba.
 
@@ -93,6 +94,7 @@ knitr::opts_chunk$set(echo = FALSE)
  + <span style = "color:red"><b>En esta prueba hay cinco respuestas por pregunta, sólo una es válida.</b></span>
  + <span style = "color:red"> Duración: 15 minutos (11:15-11:30). </span>
  + <span style = "color:red"> Asegúrate de elegir la hoja de respuestas correspondiente a esta prueba.</span>
+ + <span style = "color:red"> Marca tus respuestas en la hoja tras cada ejercicio, no esperes al final.</span>
  <!-- + <span style = "color:red"> Responde a 15 de las 18 preguntas. (se corrigen las 15 primeras respuestas). Respeta el número de pregunta en la hoja de respuestas. </span> -->
  + <span style = "color:red"> No se penalizan las respuestas incorrectas (no marques menos de 15 respuestas).</span>
  + <span style = "color:red"><b>Recuerda apagar y guardar el móvil.</b></span>
@@ -107,9 +109,8 @@ knitr::opts_chunk$set(echo = FALSE)
  + <span style = "color:red"> Duración: 25 minutos (11:35-12:00). </span>
  + <span style = "color:red"> Asegúrate de elegir la hoja de respuestas correspondiente a esta prueba.</span>
  + <span style = "color:red"> No se penalizan las respuestas incorrectas (no marques menos de 15 respuestas).</span>
+ + <span style = "color:red"> Marca tus respuestas en la hoja tras cada ejercicio, no esperes al final.</span>
  
- 
-
 
 ---
 
